@@ -1,0 +1,41 @@
+[
+  {
+    "nombre": "Metal Gear Solid V: The Phantom Pain",
+    "plataforma": "PS3",
+    "precio": 60.0,
+    "disponible": true,
+    "listaGeneros": [
+      "Acción",
+      "Espionaje Táctico"
+    ]
+  },
+  {
+    "nombre": "Devil May Cry 3",
+    "plataforma": "PS2",
+    "precio": 30.0,
+    "disponible": false,
+    "listaGeneros": [
+      "Acción"
+    ]
+  },
+  {
+    "nombre": "Sekiro: Shadows die twice",
+    "plataforma": "PS4",
+    "precio": 60.0,
+    "disponible": true,
+    "listaGeneros": [
+      "JRPG",
+      "Aventura"
+    ]
+  },
+  {
+    "nombre": "Demon Souls",
+    "plataforma": "PS3",
+    "precio": 25.0,
+    "disponible": false,
+    "listaGeneros": [
+      "JRPG",
+      "Acción"
+    ]
+  }
+]
