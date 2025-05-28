@@ -40,4 +40,15 @@ public class Videojuego {
     public List<String> getListaGeneros() {
         return listaGeneros;
     }
+
+    @Override
+    public String toString() {
+        return "Videojuego{" +
+                "nombre='" + nombre + '\'' +
+                ", plataforma='" + plataforma + '\'' +
+                ", precio=" + precio +
+                ", disponible=" + disponible +
+                ", listaGeneros=" + listaGeneros +
+                '}';
+    }
 }
