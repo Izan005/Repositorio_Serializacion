@@ -29,6 +29,66 @@
     ]
   },
   {
+    "nombre": "The Legend of Zelda: Ocarina of Time",
+    "plataforma": "N64",
+    "precio": 40.0,
+    "disponible": false,
+    "listaGeneros": [
+      "Acción",
+      "Aventura"
+    ]
+  },
+  {
+    "nombre": "Super Mario Galaxy 2",
+    "plataforma": "Wii",
+    "precio": 40.0,
+    "disponible": true,
+    "listaGeneros": [
+      "Plataformas",
+      "Exploración"
+    ]
+  },
+  {
+    "nombre": "Pokémon Perla",
+    "plataforma": "DS",
+    "precio": 30.0,
+    "disponible": false,
+    "listaGeneros": [
+      "RPG",
+      "Aventura"
+    ]
+  },
+  {
+    "nombre": "Halo Infinite",
+    "plataforma": "XBOX Series X",
+    "precio": 70.0,
+    "disponible": true,
+    "listaGeneros": [
+      "FPS",
+      "Acción"
+    ]
+  },
+  {
+    "nombre": "Fable II",
+    "plataforma": "XBOX 360",
+    "precio": 30.0,
+    "disponible": false,
+    "listaGeneros": [
+      "RPG",
+      "Aventura"
+    ]
+  },
+  {
+    "nombre": "Quantum Breake",
+    "plataforma": "XBOX 360",
+    "precio": 70.0,
+    "disponible": true,
+    "listaGeneros": [
+      "RPG",
+      "Táctico"
+    ]
+  },
+  {
     "nombre": "Demon Souls",
     "plataforma": "PS3",
     "precio": 25.0,
